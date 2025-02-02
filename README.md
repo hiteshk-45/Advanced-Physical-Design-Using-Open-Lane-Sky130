@@ -1,4 +1,5 @@
 # Advanced-Physical-Design-Using-Open-Lane-Sky130
+# Hitesh Kalavagunta
 ## DAY 1 INCEPTION OF OPEN SOURCE EDA, OPENLANE AND SKY 130
 ### Arduino Board :
 <img width="248" alt="image" src="https://github.com/user-attachments/assets/97eebb77-bf93-40c9-86df-504f04c92abf" />
@@ -579,3 +580,4 @@ WIRE SPACING
 
 ### Lecturers
 ### Some Images taken from Lectures
+### Author
